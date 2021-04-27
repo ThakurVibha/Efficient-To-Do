@@ -10,8 +10,8 @@ You can use the Efficient To Do Application to make a simple and easy to manage 
 <br>
 You can delete and update tasks by swiping the task on the left and right side as beautiful Onswipe functionality has been added in the application.
 </p>
-</br>
 User interface of application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
+</br>
 
 # Tech stack & Open-source libraries
 - Minimum SDK level 27
