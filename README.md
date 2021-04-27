@@ -13,6 +13,7 @@ You can delete and update tasks by swiping the task on the left and right side a
 User interface of application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
 </br>
 
+
 # Tech stack & Open-source libraries
 - Minimum SDK level 27
 - Simple application using [SQLite Database](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase).
@@ -21,7 +22,8 @@ User interface of application is simple and attractive. As soon as you complete 
 - [Lottie Animations](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native.
 
 <p float="center">
-<img src="https://user-images.githubusercontent.com/72120614/116174336-0f45d380-a6c3-11eb-956e-66659377615c.png" width="450" height="250" />
+<img src="https://user-images.githubusercontent.com/72120614/116174336-0f45d380-a6c3-11eb-956e-66659377615c.png" width="600" height="250" />
+    
 # License
 ```xml
 Copyright 2021 Vibha Thakur
