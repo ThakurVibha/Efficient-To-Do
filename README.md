@@ -11,11 +11,13 @@ You can use the Efficient To Do Application to make a simple and easy to manage 
 You can delete and update tasks by swiping the task on the left and right side as beautiful Onswipe functionality has been added in the application.
 </p>
 </br>
+User interface of application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
 
 # Tech stack & Open-source libraries
 - Minimum SDK level 27
-- Simple application using [SQLite Database](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase) for the Usable implementation of database and to perform CRUD operations on the database.
-- 100% [Java](https://docs.oracle.com/javase/8/docs/)/
+- Simple application using [SQLite Database](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase).
+- 100% [Java](https://docs.oracle.com/javase/8/docs/
+- 
 - [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids.
 - [Lottie Animations](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native.
 
