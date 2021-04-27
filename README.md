@@ -21,7 +21,7 @@ User interface of application is simple and attractive. As soon as you complete 
 # Tech stack & Open-source libraries
 - Minimum SDK level- 27
 - Simple application using [SQLite Database](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase)
-- 100% [Java](https://docs.oracle.com/javase/8/docs/
+- 100% [Java](https://docs.oracle.com/javase/8/docs)
 - [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids.
 - [Lottie Animations](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native.
 
