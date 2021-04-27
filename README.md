@@ -21,6 +21,8 @@ User interface of application is simple and attractive. As soon as you complete 
 - [Lottie Animations](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native.
 
 # License
+<p float="center">
+<img src="https://user-images.githubusercontent.com/72120614/116174336-0f45d380-a6c3-11eb-956e-66659377615c.png" width="250" height="250" />
 ```xml
 Copyright 2021 Vibha Thakur
 
