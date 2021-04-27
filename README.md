@@ -1,14 +1,14 @@
-# Efficient-To-Do
-<h1 align="center">Movies Hex</h1>
+<h1 align="center">Efficient To Do Application</h1>
 
 <p align="center"> 
 <a href="https://play.google.com/store/apps/details?id=com.vibhathakur.doit" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/EntertainmentApp/master/gallery/play-store-badge.svg?token=AKRVCBOLTCHDEUKJB2KB2HLAPWV4E" alt="android" width="400" height="40"> </a>
 </p>
 
 <p align="center">  
-Movies Hex is a movie guide which recommends trending and upcoming movies and more information about them like rating, overview, cast, posters (which can be directly used as wallpapers).
+Efficient To Do Application is a simple and easy-to-use task management tool to help you stay organized and manage your day-to-day tasks.
+You can use the Efficient To Do Application to make a simple and easy to manage lists of tasks to ensure productivity.
 <br>
-Movies hex also supports creation of watchlists like 'Watch Later Movies' and 'Watched Movies'
+You can delete and update tasks by swiping the task on the left and right side as beautiful Onswipe functionality has been added in the application.
 </p>
 </br>
 
