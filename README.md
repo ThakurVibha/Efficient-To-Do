@@ -20,6 +20,8 @@ User interface of application is simple and attractive. As soon as you complete 
 - [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids.
 - [Lottie Animations](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native.
 
+<p float="center">
+<img src="https://user-images.githubusercontent.com/72120614/116174336-0f45d380-a6c3-11eb-956e-66659377615c.png" width="450" height="250" />
 # License
 ```xml
 Copyright 2021 Vibha Thakur
