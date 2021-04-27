@@ -12,7 +12,9 @@ You can delete and update tasks by swiping the task on the left and right side a
 <br>
 User interface of application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
 </br>
-
+<p float="center">
+<img src="https://user-images.githubusercontent.com/72120614/116174945-4668b480-a6c4-11eb-8b2c-035c79ab860e.png" width="250" height="480" />
+    
 
 # Tech stack & Open-source libraries
 - Minimum SDK level 27
@@ -21,9 +23,6 @@ User interface of application is simple and attractive. As soon as you complete 
 - [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids.
 - [Lottie Animations](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/72120614/116174788-f4279380-a6c3-11eb-8419-81229faecce1.png" width="200" height="200" />
-    
 # License
 ```xml
 Copyright 2021 Vibha Thakur
