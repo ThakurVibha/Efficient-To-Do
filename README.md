@@ -1,5 +1,16 @@
 # Efficient-To-Do
+<h1 align="center">Movies Hex</h1>
 
+<p align="center"> 
+<a href="https://play.google.com/store/apps/details?id=com.shalatan.entertainmentapp" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/EntertainmentApp/master/gallery/play-store-badge.svg?token=AKRVCBOLTCHDEUKJB2KB2HLAPWV4E" alt="android" width="400" height="40"> </a>
+</p>
+
+<p align="center">  
+Movies Hex is a movie guide which recommends trending and upcoming movies and more information about them like rating, overview, cast, posters (which can be directly used as wallpapers).
+<br>
+Movies hex also supports creation of watchlists like 'Watch Later Movies' and 'Watched Movies'
+</p>
+</br>
 
 # License
 ```xml
