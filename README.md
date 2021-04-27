@@ -13,7 +13,7 @@ You can delete and update tasks by swiping the task on the left and right side a
 User interface of application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
 </br>
 <p float="center">
-<img src="https://user-images.githubusercontent.com/72120614/116174945-4668b480-a6c4-11eb-8b2c-035c79ab860e.png" width="250" height="480" />
+<img src="https://user-images.githubusercontent.com/72120614/116174945-4668b480-a6c4-11eb-8b2c-035c79ab860e.png" width="300" height="480" />
     
 
 # Tech stack & Open-source libraries
