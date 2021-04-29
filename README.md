@@ -13,6 +13,9 @@ You can delete and update tasks by swiping the task on the left and right side a
 The user interface of the application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
 
 ```
+## Get it on the Google Playstore
+
+https://play.google.com/store/apps/details?id=com.vibhathakur.doit
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72120614/116175215-be36df00-a6c4-11eb-8155-6cfbe3d9349e.png" width="260" height="500" />
