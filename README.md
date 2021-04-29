@@ -1,7 +1,7 @@
 <h1 align="center">Efficient To Do Application</h1>
 
 <p align="center"> 
-<a href="https://play.google.com/store/apps/details?id=com.vibhathakur.doit" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/EntertainmentApp/master/gallery/play-store-badge.svg?token=AKRVCBOLTCHDEUKJB2KB2HLAPWV4E" alt="android" width="400" height="40"> </a>
+ </a>
 </p>
 
 <p align="center">  
