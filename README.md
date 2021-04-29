@@ -4,13 +4,17 @@
  </a>
 </p>
 
-<p align="center">  
-Efficient To Do Application is a simple and easy-to-use task management tool to help you stay organized and manage your day-to-day tasks.
-You can use the Efficient To Do Application to make a simple and easy to manage lists of tasks to ensure productivity.
+<p align="center"> 
+```xml
+ 
+Efficient To-Do Application is a simple and easy-to-use task management tool to help you stay organized and manage your day-to-day tasks.
+You can use the Efficient To-Do Application to make a simple and easy to manage lists of tasks to ensure productivity.
 <br>
 You can delete and update tasks by swiping the task on the left and right side as Onswipe functionality has been added in the application.
 <br>
-User interface of application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
+The user interface of the application is simple and attractive. As soon as you complete a task and ticks the checkbox, cute animations will pop up to ensure the Dopamine effect, so that you can accomplish more.
+```
+
 </br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72120614/116175215-be36df00-a6c4-11eb-8155-6cfbe3d9349e.png" width="260" height="500" />
